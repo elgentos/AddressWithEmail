@@ -1,0 +1,13 @@
+{
+    "name": "elgentos/addresswithemail",
+    "description": "AddressWithEmail extension - adds the email var to the customer configuration address templates",
+    "type": "magento-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "peterjaap",
+            "email": "peterjaap@elgentos.nl"
+        }
+    ],
+    "require": {}
+}

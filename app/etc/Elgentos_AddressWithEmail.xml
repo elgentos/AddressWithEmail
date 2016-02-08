@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Elgentos_AddressWithEmail>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Customer/>
+
+            </depends>
+        </Elgentos_AddressWithEmail>
+    </modules>
+</config>
